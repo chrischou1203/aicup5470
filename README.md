@@ -3,4 +3,4 @@
 3.將dataset放入aicup資料夾底下。<br>
 4.打開aicup_model_train.ipynb照著步驟進行。<br>
 參加比賽的模型之權重檔位址:[https://drive.google.com/drive/folders/18uZyIRu0-RhFdOlGpvzQg-fkBdgL20iq?usp=drive_link](https://drive.google.com/drive/folders/1xbzlW1TQTNdd8ktO_YvPTv_HKxQb3Moc?usp=drive_link)
-
+model_0058.pth為fastreid的，best.pt為yolo的
